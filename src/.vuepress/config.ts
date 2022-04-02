@@ -17,7 +17,7 @@ const ssrTransformCustomDir = () => {
 export default defineUserConfig<DefaultThemeOptions>({
 	// 独自ドメイン使う場合 '/' にする
 	// 独自ドメイン使わない場合 '/misskey-hub/' にする
-	base: '/',
+	base: '/misskey-hub/',
 
 	lang: 'ja-JP',
 	title: 'Misskey Hub',

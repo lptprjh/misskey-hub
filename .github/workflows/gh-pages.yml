@@ -4,7 +4,7 @@ on:
   # trigger deployment on every push to main branch
   push:
     branches:
-      - main
+      - main-klapy
   # trigger deployment manually
   workflow_dispatch:
 
@@ -39,8 +39,8 @@ jobs:
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/main' }}
+        if: ${{ github.ref == 'refs/heads/main-klapy' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./src/.vuepress/dist
-          cname: misskey-hub.net
+          cname: k.lapy.link
