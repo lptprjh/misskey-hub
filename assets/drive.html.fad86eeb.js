@@ -1,0 +1,1 @@
+const e={key:"v-793f1c7f",path:"/ko/docs/features/drive.html",title:"Drive",lang:"ko-KR",frontmatter:{},excerpt:"",headers:[{level:2,title:"Warning (NSFW)",slug:"warning-nsfw",children:[]}],git:{updatedTime:1647753224e3,contributors:[{name:"lptprjh",email:"lptprjh@gmail.com",commits:1}]},filePathRelative:"ko/docs/features/drive.md"};export{e as data};

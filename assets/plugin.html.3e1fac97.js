@@ -1,0 +1,1 @@
+const t={key:"v-0a402896",path:"/ko/docs/features/plugin.html",title:"\uD50C\uB7EC\uADF8\uC778",lang:"ko-KR",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648538892e3,contributors:[{name:"lptprjh",email:"lptprjh@gmail.com",commits:2}]},filePathRelative:"ko/docs/features/plugin.md"};export{t as data};

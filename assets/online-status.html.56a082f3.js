@@ -1,0 +1,1 @@
+const t={key:"v-41ea9a9d",path:"/ko/docs/features/online-status.html",title:"Online Status",lang:"ko-KR",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647753224e3,contributors:[{name:"lptprjh",email:"lptprjh@gmail.com",commits:1}]},filePathRelative:"ko/docs/features/online-status.md"};export{t as data};

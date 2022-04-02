@@ -1,0 +1,1 @@
+const t={key:"v-18123f3f",path:"/ko/docs/features/custom-emoji.html",title:"Custom Emoji",lang:"ko-KR",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647753224e3,contributors:[{name:"lptprjh",email:"lptprjh@gmail.com",commits:1}]},filePathRelative:"ko/docs/features/custom-emoji.md"};export{t as data};

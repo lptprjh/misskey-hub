@@ -1,0 +1,1 @@
+const t={key:"v-124be6e2",path:"/ko/docs/admin/default-reaction.html",title:"Changing the default Reaction",lang:"ko-KR",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647753224e3,contributors:[{name:"lptprjh",email:"lptprjh@gmail.com",commits:1}]},filePathRelative:"ko/docs/admin/default-reaction.md"};export{t as data};
