@@ -1,1 +1,0 @@
-const t={key:"v-5aedfdd0",path:"/docs/features/custom-emoji.html",title:"\u30AB\u30B9\u30BF\u30E0\u7D75\u6587\u5B57",lang:"ja-JP",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1636696294e3,contributors:[{name:"syuilo",email:"Syuilotan@yahoo.co.jp",commits:2}]},filePathRelative:"docs/features/custom-emoji.md"};export{t as data};

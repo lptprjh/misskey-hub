@@ -1,1 +1,0 @@
-const t={key:"v-a6b8bb9c",path:"/ko/docs/api/entity/note.html",title:"Note",lang:"ko-KR",frontmatter:{description:"Entity representing a note."},excerpt:"",headers:[{level:2,title:"Schema",slug:"schema",children:[]}],git:{updatedTime:1647753224e3,contributors:[{name:"lptprjh",email:"lptprjh@gmail.com",commits:1}]},filePathRelative:"ko/docs/api/entity/note.md"};export{t as data};

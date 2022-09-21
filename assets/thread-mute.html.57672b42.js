@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-21624566","path":"/ko/docs/features/thread-mute.html","title":"Thread mute","lang":"ko-KR","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1647753224000,"contributors":[{"name":"lptprjh","email":"lptprjh@gmail.com","commits":1}]},"filePathRelative":"ko/docs/features/thread-mute.md"}');export{t as data};
