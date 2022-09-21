@@ -2,17 +2,17 @@
 	host: 'misskey.io',
 	lang: 'ja',
 }, {
-	host: 'sushi.ski',
-	name: 'すしすき～',
-	lang: 'ja',
+	host: 'kokonect.link',
+	name: '_KOKONECT_',
+	lang: 'ko',
 }, {
-	host: 'newskey.cc',
-	name: '𝙉𝙚𝙬𝙨𝙠𝙚𝙮.𝙘𝙘',
-	lang: 'ja',
+	host: 'stella.ocellaris.dev',
+	name: 'Stella',
+	lang: 'ko',
 }, {
-	host: 'stop.voring.me',
-	name: 'ThoseFewCalculators',
-	lang: 'en',
+	host: 'k.lapy.link',
+	name: 'Misskey.lapy',
+	lang: 'ko',
 }, {
 	host: 'mk.nixnet.social',
 	name: 'NixNet Social',
@@ -21,20 +21,4 @@
   host: 'jigglypuff.club',
   name: 'Jigglypuff!',
   lang: 'en',
-}, {
-  host: 'minidisc.tokyo',
-  name: 'ミニディスク【Ｍｉｎｉ　Ｄｉｓｕｋｕ】',
-  lang: 'en',
-}, {
-  host: 'misskey.social',
-  name: 'Misskey Social',
-  lang: 'it',
-}, {
-	host: 'fedi.mint.lgbt',
-	name: 'Fedimint',
-	lang: 'en',
-}, {
-  host: 'www.foxyhole.io',
-  name: 'FoxyHole',
-  lang: 'it',
 }]
