@@ -26,7 +26,7 @@ const useEditNavLink = (): ComputedRef<null | NavLink> => {
     const {
       repo,
       docsRepo = repo,
-      docsBranch = 'main',
+      docsBranch = 'main-klapy',
       docsDir = '',
       editLinkText,
     } = themeLocale.value
