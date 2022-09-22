@@ -375,6 +375,9 @@ export default defineUserConfig<DefaultThemeOptions>({
 							}, {
 								text: 'misskey-hub',
 								link: 'https://github.com/misskey-dev/misskey-hub',
+							}, {
+								text: 'misskey-hub (Fork)',
+								link: 'https://github.com/ltlapy/misskey-hub',
 							}]
 						}
 					],
