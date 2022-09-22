@@ -29,6 +29,7 @@ export default defineUserConfig<DefaultThemeOptions>({
 		['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c', }],
 		['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Kosugi+Maru', }],
 		['link', { rel: 'stylesheet', href: 'https://use.fontawesome.com/releases/v5.15.3/css/all.css', }],
+		['link', { rel: 'stylesheet', href: 'https://webfontworld.github.io/goyang/GoYangIlSan.css', }],
 	],
 
 	locales: {
