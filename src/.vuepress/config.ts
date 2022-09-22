@@ -29,6 +29,7 @@ export default defineUserConfig<DefaultThemeOptions>({
 		['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c', }],
 		['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Kosugi+Maru', }],
 		['link', { rel: 'stylesheet', href: 'https://use.fontawesome.com/releases/v5.15.3/css/all.css', }],
+		['link', { rel: 'stylesheet', href: 'https://webfontworld.github.io/goyang/GoYangIlSan.css', }],
 	],
 
 	locales: {
@@ -316,7 +317,6 @@ export default defineUserConfig<DefaultThemeOptions>({
 							children: [
 								'/ko/docs/api',
 								'/ko/docs/api/streaming',
-								'/ko/docs/api/entity',
 								'/ko/docs/api/endpoints.html',
 							]
 						},
@@ -324,6 +324,7 @@ export default defineUserConfig<DefaultThemeOptions>({
 							text: '인스턴스 운영자를 위하여',
 							children: [
 								'/ko/docs/install',
+								'/ko/docs/admin/emoji',
 								'/ko/docs/admin/cdn',
 								'/ko/docs/admin/nginx',
 								'/ko/docs/admin/push-docker-hub',
