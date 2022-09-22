@@ -49,7 +49,7 @@ export default defineUserConfig<DefaultThemeOptions>({
 	},
 
 	theme: localTheme({
-		repo: 'misskey-dev/misskey-hub',
+		repo: 'ltlapy/misskey-hub',
 		docsDir: 'src',
 		logo: 'https://raw.githubusercontent.com/misskey-dev/assets/main/favicon.png',
 		locales: {
