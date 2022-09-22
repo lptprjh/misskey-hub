@@ -316,7 +316,6 @@ export default defineUserConfig<DefaultThemeOptions>({
 							children: [
 								'/ko/docs/api',
 								'/ko/docs/api/streaming',
-								'/ko/docs/api/entity',
 								'/ko/docs/api/endpoints.html',
 							]
 						},
@@ -324,6 +323,7 @@ export default defineUserConfig<DefaultThemeOptions>({
 							text: '인스턴스 운영자를 위하여',
 							children: [
 								'/ko/docs/install',
+								'/ko/docs/admin/emoji',
 								'/ko/docs/admin/cdn',
 								'/ko/docs/admin/nginx',
 								'/ko/docs/admin/push-docker-hub',
