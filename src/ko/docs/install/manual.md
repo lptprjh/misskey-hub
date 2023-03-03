@@ -86,7 +86,7 @@ WantedBy=multi-user.target
 ```
 
 ::: warning
-CentOS에서 1024 이하의 포트를 이용해 Misskey를 실행하는 경우 `ExecStart=/usr/bin/sudo/usr/bin/npm start`로 변경해야 합니다.
+CentOS에서 1024 이하의 포트를 이용해 Misskey를 실행하는 경우 `ExecStart=/usr/bin/sudo /usr/bin/npm start`로 변경해야 합니다.
 :::
 
 이제 systemd를 다시 시작해 서비스를 활성화합니다.
